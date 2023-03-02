@@ -406,10 +406,6 @@ For dxcc, you need to use plstage instead of stage
 
 ---------------------------------------------------------------------
 
-### I have issues ....... please send logs and full console details !
-
-- Run the mtk tool with --debugmode. Log will be written to log.txt (hopefully)
-
 ## Rules / Infos
 
 ### Chip details / configs
