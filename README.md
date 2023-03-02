@@ -27,7 +27,6 @@ User: user, Password:user (based on Ubuntu 22.04 LTS)
 [Live DVD V4 Mirror](https://drive.google.com/file/d/10OEw1d-Ul_96MuT3WxQ3iAHoPC4NhM_X/view?usp=sharing)
 
 
-
 ## Install
 
 ### Linux  / Mac OS - (Ubuntu recommended, no patched kernel needed except for kamakiri)
@@ -125,7 +124,6 @@ See Setup/kernels for ready-to-use kernel setups
 ```
 sudo reboot
 ```
-
 
 ---------------------------------------------------------------------------------------------------------------
 
