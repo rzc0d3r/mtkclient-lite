@@ -1,4 +1,4 @@
-# MTKClient Lite
+# MTKClient Lite (ONLY CONSOLE)
 
 ![Logo](images/logo.png)
 
@@ -15,6 +15,7 @@ release the buttons.
 - linecode exploit [chimera]
 - Chaosmaster
 - Geert-Jan Kreileman (GUI, design & fixes)
+- rzc0d3r (put together a lite version)
 - All contributors
 
 ## Installation
